@@ -32,6 +32,7 @@ Visit the live application [here](https://kbtm-jayzadafiya.vercel.app/) and expe
 
 ## Screenshots
 
+![Todo](https://github.com/jayzadafiya/Kanban_Board_Task_Management/assets/82803534/78fccc87-ecad-472e-a9bd-430fae086d22)
 
 
 ## Author
