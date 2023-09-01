@@ -28,7 +28,7 @@ Kanban Board Task Management is a web application that allows users to manage ta
 
 ## Live Demo
 
-Visit the live application [here](https://vercel.com/jayzadafiya/kbtm) and experience efficient task management.
+Visit the live application [here](https://kbtm-jayzadafiya.vercel.app/) and experience efficient task management.
 
 ## Screenshots
 
